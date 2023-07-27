@@ -1,4 +1,6 @@
 # ClearCast
+## Deployed Link
+https://clearcast.netlify.app/
 ## Description
 
 - This is a weather application built using React.js that fetches weather data from the OpenWeather API to   provide real-time weather information to users. Users can search for a location and view its current weather conditions and forecast.
@@ -19,4 +21,3 @@
 - Copy the `Key` and paste in `.env` file.
 - Install the node modules with `npm i`.
 - Run the application using `npm start`.
-
